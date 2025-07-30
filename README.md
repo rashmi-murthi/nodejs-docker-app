@@ -9,7 +9,7 @@ A simple Node.js application running on [Express](https://expressjs.com/) and co
 - Node.js 18 LTS base image
 
 ## 📁 Project Structure
-myapp/
+nodejs-docker-app/
 ├── Dockerfile
 ├── index.js
 ├── package.json
