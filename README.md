@@ -89,12 +89,19 @@ whoami
 
 ## 🌐 Test the Application
 
+<<<<<<< HEAD
 Open your browser and go to:  
 
 http://localhost:3000 # for basic build  
 
 http://localhost:3001 # for multistage build  
 
+=======
+Open your browser and go to:
+http://localhost:3000 # for basic build  
+
+http://localhost:3001 # for multistage build
+>>>>>>> 04a07e2 (updated readmefile)
 You should see: Hello World!
 
 ## 📚 Educational Value
