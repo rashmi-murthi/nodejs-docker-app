@@ -5,7 +5,17 @@ This project demonstrates a simple Node.js application packaged with **two diffe
 - A **multistage Dockerfile** using lightweight Alpine-based Node image
 
 The project also highlights a common troubleshooting case: **why `bash` works in one container but not in another**, and how to fix or work around it.
+---
 
+## 🛠️ Tech Stack
+
+- Node.js
+- Docker (Basic & Multistage)
+- Debian & Alpine base images
+- Git & GitHub
+- Linux Shell (bash, sh)
+
+---
 ## 📁 Project Structure
 
 ```
